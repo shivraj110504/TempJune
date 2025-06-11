@@ -64,7 +64,7 @@ body {
 .carousel-item .title {
   position: absolute;
   z-index: 1;
-  color: #fff;
+  color: aqua;
   bottom: 20px;
   left: 20px;
   transition: opacity 0.8s cubic-bezier(0, 0.02, 0, 1);
